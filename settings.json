@@ -329,7 +329,7 @@
       "border-radius": "9999px !important"
     },
     ".part.panel.bottom": {
-      "margin": "0 4px",
+      "margin": "0 1px",
       "border-radius": "10px",
       "border-top": "1px solid rgba(255,255,255,0.1) !important",
       "border-left": "1px solid rgba(255,255,255,0.06) !important",
