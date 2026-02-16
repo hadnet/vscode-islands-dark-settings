@@ -5,7 +5,7 @@
       "path": "zsh"
     }
   },
-  "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+  "terminal.integrated.fontFamily": "SauceCodePro Nerd Font Mono",
   "terminal.integrated.cursorStyle": "underline",
   "terminal.integrated.cursorBlinking": true,
   "git.ignoreMissingGitWarning": true,
@@ -329,7 +329,7 @@
       "border-radius": "9999px !important"
     },
     ".part.panel.bottom": {
-      "margin": "0 1px",
+      "margin": "3px 1px 0px 1px",
       "border-radius": "10px",
       "border-top": "1px solid rgba(255,255,255,0.1) !important",
       "border-left": "1px solid rgba(255,255,255,0.06) !important",
